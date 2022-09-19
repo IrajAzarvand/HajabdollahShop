@@ -1,12 +1,3 @@
-/node_modules
-/public/hot
-/public/storage
-/public/uploads
-/storage/*.key
-/storage/debugbar
-/storage/installed
-/vendor
-.env
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
